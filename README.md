@@ -1,5 +1,5 @@
 # //hello, I'm bram:
-> $ currently working with red.dev<br>
+> $ currently working with reddev<br>
 $ learning about Nuxt.js, Next.js, and Laravel<br>
 $ ask about Linux and similar<br>
 $ like to watch anime and read manga? friend!! (⁠≧⁠▽⁠≦⁠)
